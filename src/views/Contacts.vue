@@ -39,6 +39,10 @@ export default {
 </script>
 
 <style>
+section{
+  overflow: hidden ;
+}
+
     :root {
   --bg: #ffffff;     
   --color-icon: #535c68;  
