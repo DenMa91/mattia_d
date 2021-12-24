@@ -1,5 +1,5 @@
 <template>
-  <section class="container iconSection">
+  <section class="container-fluid iconSection">
       <div class="row justify-content-center align-items-center vh-100 icons">
           <div class="col-6 col-md-2 d-flex justify-content-center align-items-center">
               <a class="icon" target="blank" href="https://wa.me/393487934801"><div class="d-flex align-items-center justify-content-center icon-div1 zoom">

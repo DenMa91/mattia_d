@@ -16,7 +16,7 @@
     </div>
     <div class="row align-items-center justify-content-center">
       <div class="col-12 my-4">
-        <p class="fs-4">Sono un Junior Full Stack Developer creativo e socievole, con la passione per il coding e l’obiettivo imparare nuovi linguaggi e di tenermi aggiornato sulle nuove tecnologie. So utilizzare i linguaggi HTML, CSS, JavaScript e PHP utilizzando il Framework Laravel. So inoltre utilizzare i database MySql tramite l’ORM Eloquent. Mi piacerebbe lavorare in un’azienda che punti alla crescita personale e professionale dei propri dipendenti e che applichi metodologie Agili</p>
+        <p class="fs-4">Sono un Junior <strong>Full Stack Developer</strong> creativo e socievole, con la passione per il coding e l’obiettivo imparare nuovi linguaggi e di tenermi aggiornato sulle nuove tecnologie.</p> <p class="fs-4 my-4">So utilizzare i linguaggi <strong>HTML, CSS, JavaScript e PHP</strong> utilizzando il Framework Laravel.<br>So inoltre utilizzare i database <strong>MySql tramite l’ORM Eloquent</strong>.</p> <p class="fs-4 my-4">Mi piacerebbe lavorare in un’azienda che punti alla crescita personale e professionale dei propri dipendenti e che applichi <strong>metodologie Agili</strong></p>
       </div>
       <div class="col-12 line mb-5"></div>
         <h2 class="display-4 text-center mt-5">Esperienza</h2>

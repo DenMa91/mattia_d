@@ -9,8 +9,8 @@
           </div>
           <div class="col-12 col-md-6 p-5 text-center text">
               <h2 class="display-5 fw-bold">Developer</h2>
-              <p class="fs-4">sono un Junior fullstack developer appassionato di coding!!!</p>
-              <p class="fs-4 fw-bold">il mio sogno ?</p>
+              <p class="fs-4">Sono un Junior fullstack developer appassionato di coding!!!</p>
+              <p class="fs-4 fw-bold question">Il mio sogno ?</p>
               <p class="fs-4">rendere un lavoro la mia passione!!!</p>
           </div>
       </div>

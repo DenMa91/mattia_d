@@ -6,8 +6,8 @@
           </div>
           <div class="col-12 col-md-6 p-5 text2 text-center">
               <h2 class="display-5 fw-bold">Creativo</h2>
-              <p class="fs-4">amo la grafica digitale e il disegno</p>
-              <p class="fs-4 fw-bold">i miei software preferiti?</p>
+              <p class="fs-4">Amo la grafica digitale e il disegno!!!</p>
+              <p class="fs-4 fw-bold question">i miei software preferiti?</p>
               <p class="fs-4">Photoshop e SketchBook!!!</p>
           </div>
       </div>

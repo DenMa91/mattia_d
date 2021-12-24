@@ -1,6 +1,6 @@
 <template>
-  <section class="wrapper">
-    <section class="container" @scroll="scrollUp">
+  <section class="container-fluid wrapper">
+    <section class="container-fluid" @scroll="scrollUp">
       <div class="row align-items-center justify-content-center">
         <div class="col-12 d-flex justify-content-center align-items-center flex-column vh-100">
           <img class="img-fluid logo" src="../assets/logobk.png" alt="logo Mattia Denegri">
@@ -58,6 +58,7 @@ export default {
     }
   },
   mounted() {
+    gsap.fromTo(".arrowDown", {opacity:0},{opacity:1, duration:1, ease:'power2.out', delay: 3 })
     gsap.to('.arrowDown', {y:-50, repeat:-1, duration:1, ease: 'power2.out'})
     gsap.fromTo('.logo', {scale:6}, {scale:1, duration:3, ease:'power2.out'})
     window.addEventListener('scroll', this.scrollUp)
@@ -112,7 +113,12 @@ export default {
     color: #42b983;
     transition: 0.4s;
   }
-
+</style>
+<style >
+ 
+  .question{
+    color: #42b983;
+  }
 
 </style>
 

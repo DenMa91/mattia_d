@@ -6,9 +6,9 @@
           </div>
           <div class="col-12 col-md-6 p-5 text-center text3">
               <h2 class="display-5 fw-bold">Rock 'N' Roll</h2>
-              <p class="fs-4">Amo la musica e i concerti dal vivo!</p>
-              <p class="fs-4 fw-bold">il mio genere preferito?</p>
-              <p class="fs-4">senza ombra di dubbio il rock <i class="fas fa-guitar fa-2x"></i>!!!</p>
+              <p class="fs-4">Amo la musica e i concerti dal vivo!!!</p>
+              <p class="fs-4 fw-bold question">Il mio genere preferito?</p>
+              <p class="fs-4">senza ombra di dubbio il rock <i class="fas fa-guitar fa-2x question"></i>!!!</p>
           </div>
       </div>
   </section>
