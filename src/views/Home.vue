@@ -3,28 +3,28 @@
     <section class="container-fluid" @scroll="scrollUp">
       <div class="row align-items-center justify-content-center">
         <div class="col-12 d-flex justify-content-center align-items-center flex-column vh-100">
-          <img class="img-fluid logo" src="../assets/logobk.png" alt="logo Mattia Denegri">
-        <span class="arrowDown mt-5">
-          <i class="fas fa-chevron-down fa-5x"></i>
-        </span>
+          <img class="img-fluid logo" src="../assets/logograffe.svg" alt="logo Mattia Denegri">
+          <span class="arrowDown mt-5">
+            <i class="fas fa-chevron-down fa-5x"></i>
+          </span>
         </div>
       </div>
     </section>
     <transition-group
       enter-active-class="animated slideInUp"
       leave-active-class="animated slideOutDown">
-    <skills v-if="scroll > 200"/>
-    <dev v-if="scroll > 800"/>
-    <creative v-if="scroll > 1300"/>
-    <rock v-if="scroll > 1800"/>
+      <skills v-if="scroll > 200"/>
+      <dev v-if="scroll > 800"/>
+      <creative v-if="scroll > 1300"/>
+      <rock v-if="scroll > 1800"/>  
     </transition-group>
     <transition
     enter-active-class="animated slideInRight">
-    <div class="row py-5" v-if="scroll > 2000">
-      <div class="col-12 d-flex justify-content-center">
-        <button class="btn btn-custom" @click="contacts"><h3 class="display-3"><i class="fas fa-phone me-3"></i>Contattami</h3></button>
+      <div class="row py-5" v-if="scroll > 2000">
+        <div class="col-12 d-flex justify-content-center">
+          <button class="btn btn-custom" @click="contacts"><h3 class="display-6"><i class="fas fa-phone me-3"></i>Contattami</h3></button>
+        </div>
       </div>
-    </div>
     </transition>
     <div class="vh-1000" v-if="scroll <= 2000"></div>
   </section>

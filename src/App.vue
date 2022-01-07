@@ -6,9 +6,9 @@
     <nav class="container-fluid" v-if="isOpen">
       <div class="row vh-100 justify-content-center align-items-center">
         <div class="col-12 text-center">
-          <router-link to="/"><h1 class="my-5 display-4" @click="toggleMenu"><i class="fas fa-home me-3"></i>HOME</h1></router-link>
-          <router-link to="/curriculum"><h1 class="my-5 display-4" @click="toggleMenu"><i class="fas fa-file-alt me-3"></i>CURRICULUM</h1></router-link>
-          <router-link to="/contacts"><h1 class="my-5 display-4" @click="toggleMenu"><i class="fas fa-id-card me-3"></i>CONTACTS</h1></router-link>
+          <router-link to="/"><h1 class="my-5 display-6" @click="toggleMenu"><i class="fas fa-home me-3"></i>HOME</h1></router-link>
+          <router-link to="/curriculum"><h1 class="my-5 display-6" @click="toggleMenu"><i class="fas fa-file-alt me-3"></i>CURRICULUM</h1></router-link>
+          <router-link to="/contacts"><h1 class="my-5 display-6" @click="toggleMenu"><i class="fas fa-id-card me-3"></i>CONTACTS</h1></router-link>
         </div>
       </div>
     </nav>

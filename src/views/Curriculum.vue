@@ -61,7 +61,7 @@
   <section class="container mt-5">
     <div class="row py-5">
       <div class="col-12 d-flex justify-content-center">
-        <button class="btn btn-custom" @click="contacts"><h3 class="display-3"><i class="fas fa-phone me-3"></i>Contattami</h3></button>
+        <button class="btn btn-custom" @click="contacts"><h3 class="display-6"><i class="fas fa-phone me-3"></i>Contattami</h3></button>
       </div>
     </div>
   </section>
